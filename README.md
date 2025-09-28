@@ -1,0 +1,2 @@
+# SHstuff
+Random sh scripts
